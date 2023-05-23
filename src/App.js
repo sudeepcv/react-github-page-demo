@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Master Core Java, JSP, Servlet, Hibernate, Maven, Spring, and more with our comprehensive tutorials and guides. Start learning today!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://basics-in-java.blogspot.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          https://basics-in-java.blogspot.com/
         </a>
       </header>
     </div>
